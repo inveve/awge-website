@@ -747,7 +747,7 @@ screen and (max-height: 480px) and (orientation: landscape) {
 body {
 	margin: 0;
 	overflow: hidden;
-	cursor: url('https://dwvo2npct47gg.cloudfront.net/images/cursor.png') 11 32, auto;
+	cursor: url('https://i.ibb.co/db95Kyk/cursor.png') 11 32, auto;
 }
 
 
@@ -768,7 +768,7 @@ body {
 .awge-tube-border {
 	width: 100%;
 	height: 100%;
-	background-image: url('https://dwvo2npct47gg.cloudfront.net/images/border-streched.png');
+	background-image: url('https://i.ibb.co/X3BvxGJ/border-streched.png');
 	background-size: 100% 100%;
 	position: absolute;
 	z-index: 10;
@@ -1323,7 +1323,7 @@ screen and (max-height: 480px) and (orientation: landscape) {
 	font-weight: normal;
 	font-size: 1em;
 	color: white;
-	color: #0036e2;
+	color: #000000;
 	text-shadow: 3px 3px 4px #21285d, 0px 0px 16px rgba(191, 191, 191, 0.56);
 	animation: blinker 1s linear infinite;
 }
@@ -1333,7 +1333,7 @@ screen and (max-height: 480px) and (orientation: landscape) {
 	font-weight: normal;
 	font-size: 1em;
 	color: white;
-	color: #0036e2;
+	color: #000000;
 	text-shadow: 3px 3px 4px #21285d, 0px 0px 16px rgba(191, 191, 191, 0.56);
 	flex: .5;
 	display: flex;
@@ -1380,7 +1380,7 @@ screen and (max-height: 480px) and (orientation: landscape) {
 	font-family: press-start;
 	font-size: 1em;
 	color: white;
-	color: #0036e2;
+	color: #000000;
 	text-shadow: 3px 3px 4px #21285d, 0px 0px 16px rgba(191, 191, 191, 0.56);
 	font-size: 10px;
 	font-size: 0.9em;
