@@ -1,2 +1,2 @@
-# awge-website
+# ARCANE-website
 ARCANE Website
